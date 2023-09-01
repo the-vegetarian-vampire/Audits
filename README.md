@@ -1,7 +1,18 @@
 # Audits
-Some of my public security audits, reviews, and contributions.   
-[CodeHawks Profile](https://www.codehawks.com/profile/clk4b3vtt001ald08ew8go29n)   
+My public security audits, reviews, and contributions.   
+ - [CodeHawks Profile](https://www.codehawks.com/profile/clk4b3vtt001ald08ew8go29n)  
 
-## August 2023
-Beedle - Oracle free perpetual lending - [Findings Report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)   
-   - [Gas Optimization](https://www.codehawks.com/finding/cllv3kuf10087w9blci8zkzif)  
+| Issues Found | High | Medium | Low | Gas Optimizations |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+|   | 1 | 1 |    | 4 |
+
+
+# CodeHawks 
+
+| Date |Contest | High | Medium | Low | Gas Optimizations |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2023-08| Foundry DeFi Stablecoin | 1 | 1 |  | 1 |
+| 2023-08| Escrow Contract |  |  |  | 1 |
+| 2023-08| [Beedle](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |  |  |  | [2](https://www.codehawks.com/finding/cllv3kuf10087w9blci8zkzif) |
+| 2023-09| Sparkin |  |  |  |  |
+
